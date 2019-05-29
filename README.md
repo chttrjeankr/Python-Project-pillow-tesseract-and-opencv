@@ -1,5 +1,5 @@
 # Python-Project-pillow-tesseract-and-opencv
-Course 5 of 5 in the Python 3 Programming Specialization on Coursera provided by University of Michigan
+[Course 5 of 5](https://www.coursera.org/learn/python-project) in the [Python 3 Programming Specialization](https://www.coursera.org/specializations/python-3-programming) on Coursera provided by University of Michigan
 
 # About this Course
 
@@ -14,8 +14,8 @@ This is the fifth and final course in the Python 3 Programming Specialization.
 
 * How to inspect and understand APIs and third party libraries to be used with Python 3
 
-* How to apply the Python imaging library (pillow) to open, view, and manipulate images, including cropping, resizing, recoloring, and overlaying text
+* How to apply the Python imaging library ([pillow](https://github.com/python-pillow/Pillow)) to open, view, and manipulate images, including cropping, resizing, recoloring, and overlaying text
 
-* How to apply the python tesseract (py-tesseract) library with Python 3 in order to detect text in images through optical character recognition (OCR)
+* How to apply the python tesseract ([py-tesseract](https://github.com/madmaze/pytesseract)) library with Python 3 in order to detect text in images through optical character recognition (OCR)
 
-* How to apply the open source computer vision library (opencv) to detect faces in images, & how to crop and manipulate these faces into contact sheets
+* How to apply the open source computer vision library ([opencv](https://github.com/opencv/opencv)) to detect faces in images, & how to crop and manipulate these faces into contact sheets
